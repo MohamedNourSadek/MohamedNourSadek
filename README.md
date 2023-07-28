@@ -1,5 +1,4 @@
-### Intro:  
-### <div align="left">I am Mohamed Nour.
+### <div align="left"> Mohamed Nour.
 Gameplay programmer, using Unity and C#, As well as Unreal and C+.</div>  
   
 
