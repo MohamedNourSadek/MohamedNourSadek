@@ -1,5 +1,5 @@
 ### <div align="left"> Mohamed Nour.
-Gameplay programmer, using Unity and C#, As well as Unreal and C+.</div>  
+Game programmer, using Unity and C#, As well as Unreal and C+.</div>  
   
 
 <br/>  
