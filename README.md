@@ -1,6 +1,4 @@
-### <div align="left"> Mohamed Nour.
-Game programmer, using Unity and C#, As well as Unreal and C+.</div>  
-  
+### Gameplay programmer, using Unity and C#, As well as Unreal and C+.
 
 <br/>  
 
@@ -27,6 +25,7 @@ Game programmer, using Unity and C#, As well as Unreal and C+.</div>
 <br/>  
 
 
+
 ## Connect with me  
 <a href="https://www.linkedin.com/in/mohamed-nour-b44955176/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -37,7 +36,7 @@ Game programmer, using Unity and C#, As well as Unreal and C+.</div>
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=MohamedNourSadek&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohamedNourSadek&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
