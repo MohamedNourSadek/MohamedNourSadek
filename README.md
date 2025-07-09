@@ -1,4 +1,4 @@
-### Gameplay programmer, Mainly using Unity and C#, As well as Unreal and C+.
+### Gameplay programmer, Mainly using Unity and C#, As well as Unreal and C++.
 
 <br/>  
 
